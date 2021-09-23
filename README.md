@@ -21,4 +21,4 @@ This is a simple calculator that will calculate your Profit  and your total inve
 
 
 
-[you can use it here : ] (https://mixo091.github.io/InvestmentProfitCalculator/)
+you can use it here :  (https://mixo091.github.io/InvestmentProfitCalculator/)
