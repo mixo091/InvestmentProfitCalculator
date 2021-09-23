@@ -18,3 +18,7 @@ This is a simple calculator that will calculate your Profit  and your total inve
                 -
                 Average return percentage : refers to the average return value
                 of the ETF/stock each year. 
+
+
+
+[you can use it here : ] (https://mixo091.github.io/InvestmentProfitCalculator/)
